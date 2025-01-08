@@ -13,14 +13,6 @@
 <a href="www.linkedin.com/in/joaopaulohj" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-<a href="https://github.com/JoaoPauloHJ">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloHJ&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloHJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=XXXXX&show_icons=true&count_private=true&hide_border=true&title_color=006AFF&icon_color=D5FF00&text_color=006AFF&bg_color=0d1117" alt="XXXXXX github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXXXXXX&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
@@ -29,6 +21,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XXXXXXXX&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
+  <a href="https://instagram.com/joaopaulohj_15" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:joaopaulo.junqueira.ti@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/joaopaulohj" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
   <a href="perfil_insta" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
