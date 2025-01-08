@@ -22,16 +22,8 @@
 
 <div align="center">  
   <a href="https://instagram.com/joaopaulohj_15" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:joaopaulo.junqueira.ti@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/joaopaulohj" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-  <a href="perfil_insta" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="perfil_facebook" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-  <a href="https://wa.me/númerowhats" target="_blank"> <img src="https://img.shields.io/badge/-WhatsApp-%25D3663?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
+  <a href = "mailto:joaopaulo.junqueira.ti@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/joaopaulohj" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
  
